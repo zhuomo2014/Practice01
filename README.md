@@ -1,2 +1,2 @@
 # Practice01
-Just a git r\practice
+Just a git practice
